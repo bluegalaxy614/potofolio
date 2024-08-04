@@ -12,8 +12,8 @@ class Strings {
   static linkedInUsername = "mizuno0131";
 
   static whatsapp = "Whatsapp";
-  static whatsappLink = "https://wa.me/818043963016";
-  static whatsappUsername = "818043963016";
+  static whatsappLink = "https://wa.me/";
+  static whatsappUsername = "";
 
   static skype = "Skype";
   static skypeLink = "skype:live:.cid.dc772d876e211852?call";
