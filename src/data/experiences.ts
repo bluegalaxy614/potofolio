@@ -5,7 +5,7 @@ const experiences: IExperienceItem[] = [
     designation: "Blockchain Tech Engineer",
     company: "Merito",
     startDate: "Feb 2021",
-    endDate: "Nov 2021",
+    endDate: "Present",
     isCurrentJob: true,
     location: "",
     shortDescription:
@@ -16,8 +16,8 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Senior Python Developer",
     company: "TECHOX LLP",
-    startDate: "Feb 2020",
-    endDate: "Nov 2021",
+    startDate: "Feb 2022",
+    endDate: "Nov 2023",
     isCurrentJob: false,
     location: "Remote",
     shortDescription:
@@ -28,8 +28,8 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Blockchain Developer at ALCHEMIX",
     company: "Career Corner Education Pvt Ltd",
-    startDate: "Feb 2020",
-    endDate: "Jan 2021",
+    startDate: "Feb 2022",
+    endDate: "Jan 2022",
     isCurrentJob: false,
     location: "Remote",
     shortDescription:
@@ -40,8 +40,8 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Smart Contract Developer for Game Application",
     company: "",
-    startDate: "Oct 2018",
-    endDate: "Dec 2019",
+    startDate: "Oct 2022",
+    endDate: "Dec 2022",
     isCurrentJob: false,
     location: "Remote",
     shortDescription:
@@ -52,8 +52,8 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Frontend Developer",
     company: "Merito",
-    startDate: "Jan 2018",
-    endDate: "Oct 2018",
+    startDate: "Jan 2021",
+    endDate: "Oct 2021",
     isCurrentJob: true,
     location: "",
     shortDescription:
